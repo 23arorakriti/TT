@@ -1,0 +1,6 @@
+import streamlit as st
+
+def about_page():
+    st.title("About")
+    st.write("*Tranquil Trails Q&A* is an interactive AI-powered platform designed to provide users with a seamless search experience that integrates multiple data sources including YouTube, Reddit, and custom Q&A chains. The application aims to offer informative and enriching content across diverse topics, blending travel, mindfulness, and cuisine with practical solutions for inquiries.\nKey features include: \n- Unified Search: Ask questions on various topics, and the app will pull answers from its AI-powered chain, YouTube, or Reddit depending on the nature of the query.\n- *Image-to-Text Descriptions*: Upload images, and the platform generates a detailed description, offering an innovative way to understand or interact with visual content.\n- *Text-to-Speech*: Responses are not just displayed on the screen but can also be heard with a built-in text-to-audio feature for a more accessible experience.\n- *Conversation History*: Users can toggle between the current interaction and view past queries and responses with an easy-to-use conversation history feature.\nWith a sleek and modern interface, *Tranquil Trails Q&A* combines cutting-edge AI technology with a calm and intuitive design, making information gathering effortless and enjoyable.")
+about_page()
