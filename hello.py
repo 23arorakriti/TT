@@ -1,3 +1,0 @@
-api_key="AIzaSyA9iti0rLBthE1qGpuMpP6H9ug1FKmDpk8"
-OPEN_API_KEY="AIzaSyA9iti0rLBthE1qGpuMpP6H9ug1FKmDpk8"
-youtube_api_key="'AIzaSyAYvoBvpWrvCrH5QTk0NGq11p5PUMtWevc'"
